@@ -1,0 +1,26 @@
+@import url(https://db.onlinewebfonts.com/c/271efa00bb859c29419eea329237e09e?family=Pressroom+W00+Black);
+
+@font-face {
+    font-family: "press";
+    src: url("https://db.onlinewebfonts.com/t/271efa00bb859c29419eea329237e09e.eot");
+    src: url("https://db.onlinewebfonts.com/t/271efa00bb859c29419eea329237e09e.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/271efa00bb859c29419eea329237e09e.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/271efa00bb859c29419eea329237e09e.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/271efa00bb859c29419eea329237e09e.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/271efa00bb859c29419eea329237e09e.svg#Pressroom W00 Black")format("svg");
+}
+
+.banner-content h1{
+    font-size: 40px;
+    line-height: 42px;
+    font-family: press;
+}
+.banner-content .p1, .banner-content .p2{
+    color: #fff;
+    font-size: 20px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+.banner-content .p2{
+    text-transform: none;
+}
